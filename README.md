@@ -36,7 +36,7 @@ A infraestrutura provisionada inclui:
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-terraform-aws.git
+   git clone https://github.com/teujoana/projeto-terraform-aws.git
    cd projeto-terraform-aws
    ```
 2. Inicialize o Terraform:
